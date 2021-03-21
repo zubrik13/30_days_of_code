@@ -4,6 +4,7 @@ def factorial(n):
     else:
         return n * factorial(n-1)
 
+
 res = factorial(5)
 
 print(res)
