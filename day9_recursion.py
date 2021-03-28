@@ -6,5 +6,4 @@ def factorial(n):
 
 
 res = factorial(5)
-
 print(res)

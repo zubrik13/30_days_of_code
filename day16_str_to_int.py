@@ -1,6 +1,3 @@
-import sys
-
-
 def string_to_int(S):
     try:
         n = int(S)

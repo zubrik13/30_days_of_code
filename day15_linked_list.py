@@ -44,4 +44,4 @@ head = None
 for i in l:
     data = i
     head = mylist.insert(head, data)
-mylist.display(head);
+mylist.display(head)
