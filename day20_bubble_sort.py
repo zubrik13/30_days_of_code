@@ -1,6 +1,6 @@
 def bubbleSort(lst):
     """
-    Simple in memory sort, time complexity O((len(n))^2) - quadratical
+    Simple in memory sort, time complexity O((len(n))^2) - quadratic
     takes a list of integers as input
     """
     numSwaps = 0
